@@ -14,11 +14,11 @@ section{
 .half-width{
     width: 50%;
     padding-left: 2%;
-    padding-top: 4%;
+   
 }
 .half-width img{
   width: 80%;
-  padding-left: 6%;
+  
  
 }
 .link-button{
@@ -32,4 +32,9 @@ section{
 .top-banner{
   background-image: url(file:///C:/sayeda/developer-portfolio/images/20220705_025758.jpg);
   background-repeat: no-repeat
+}
+.dream-big{
+  background-image: url(file:///C:/sayeda/developer-portfolio/images/20220705_023220.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
 }
