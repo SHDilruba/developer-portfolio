@@ -34,11 +34,11 @@ h2{
  border-radius: 10px;
 }
 .top-banner{
-  background-image: url(file:///C:/sayeda/developer-portfolio/images/20220705_025758.jpg);
+  background-image: url("file:///C:/sayeda/developer-portfolio/images/20220705_025758.jpg");
   background-repeat: no-repeat
 }
 .dream-big{
-  background-image: url(file:///C:/sayeda/developer-portfolio/images/20220705_023220.jpg);
+  background-image: url("file:///C:/sayeda/developer-portfolio/images/20220705_023220.jpg");
   background-repeat: no-repeat;
   background-position: right;
 }
